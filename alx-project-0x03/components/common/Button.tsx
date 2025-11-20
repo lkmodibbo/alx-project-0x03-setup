@@ -1,4 +1,4 @@
-import type { ButtonProps } from "@/interface";
+import { ButtonProps } from "@/interface";
 
 const sizeMap = {
   sm: "px-3 py-1 text-sm",

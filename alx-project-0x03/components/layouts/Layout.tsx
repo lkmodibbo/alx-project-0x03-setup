@@ -1,6 +1,4 @@
-// components/layouts/Layout.tsx
-
-import type { LayoutProps } from "@/interface";
+import { LayoutProps } from "@/interface";
 
 export default function Layout({ children }: LayoutProps) {
   return (
